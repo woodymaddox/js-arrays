@@ -1,5 +1,9 @@
 body {
 
-background-color: teal
+background-color: teal;
 
+}
+
+.dinosaur {
+        border: 2px solid burlywood;
 }
